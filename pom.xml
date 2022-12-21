@@ -79,6 +79,11 @@ limitations under the License.
             <artifactId>logback-classic</artifactId>
             <version>${lib.logback.version}</version>
         </dependency>
+        <dependency>
+            <groupId>com.jcraft</groupId>
+            <artifactId>jsch</artifactId>
+            <version>0.1.44-1</version>
+        </dependency>
     </dependencies>
 
     <build>
