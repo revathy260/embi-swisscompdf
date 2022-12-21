@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Feb 18 14:56:47 EET 2021
+pdfbox-ais-1.0.3.pom>=
+pdfbox-ais-1.0.3-sources.jar>=
+pdfbox-ais-1.0.3.jar>=
